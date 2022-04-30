@@ -7,35 +7,35 @@ In the software we can register as a user and user has two types student and adm
 # INTRODUCTION
 
 OBJECTIVES:
-•	The main objective of the project is to design and develop a user friendly-system
-•	Easy to use and an efficient computerized system.
-•	To develop an accurate and flexible system, it will eliminate data redundancy.
-•	To study the functioning of Students management System.
-•	To make a software fast in processing, with good user interface.
-•	To make software with good user interface so that user can change it and it should be used for a long time without error and maintenance.
-•	To provide synchronized and centralized farmer and seller database.
-•	Computerization can be helpful as a means of saving time and money.
-•	To provide better Graphical User Interface (GUI).
-•	Less chances of information leakage.
-•	Provides Security to the data by using login and password method.
-•	To provide immediate storage and retrieval of data and information.
-•	Improving arrangements for students’ coordination.
-•	Reducing paperwork.
+1. The main objective of the project is to design and develop a user friendly-system
+2. Easy to use and an efficient computerized system.
+3. To develop an accurate and flexible system, it will eliminate data redundancy.
+4. To study the functioning of Students management System.
+5. To make a software fast in processing, with good user interface.
+6. To make software with good user interface so that user can change it and it should be used for a long time without error and maintenance.
+7. To provide synchronized and centralized farmer and seller database.
+8. Computerization can be helpful as a means of saving time and money.
+9. To provide better Graphical User Interface (GUI).
+10. Less chances of information leakage.
+11. Provides Security to the data by using login and password method.
+12. To provide immediate storage and retrieval of data and information.
+13. Improving arrangements for students’ coordination.
+14. Reducing paperwork.
 
 # SOFTWARE REQUIREMENTS:
 Frontend - HTML, CSS, Java Script, Bootstrap
 Backend - Python flask (Python 3.7), SQL Alchemy
-•	Operating System: Windows 10
-•	Google Chrome/Internet Explorer
-•	XAMPP (Version-3.7)
-•	Python main editor (user interface): PyCharm Community
-•	workspace editor: VS Code
+1. Operating System: Windows 10
+2. Google Chrome/Internet Explorer
+3. XAMPP (Version-3.7)
+4. Python main editor (user interface): PyCharm Community
+5. Workspace editor: VS Code
 
 # HARDWARE REQUIREMENTS:
-•	Computer with a 1.1 GHz or faster processor
-•	Minimum 2GB of RAM or more
-•	2.5 GB of available hard-disk space
-•	5400 RPM hard drive
-•	1366 × 768 or higher-resolution display
-•	DVD-ROM drive
+1. Computer with a 1.1 GHz or faster processor
+2. Minimum 2GB of RAM or more
+3. 2.5 GB of available hard-disk space
+4. 5400 RPM hard drive
+5. 1366 × 768 or higher-resolution display
+6. DVD-ROM drive
 
